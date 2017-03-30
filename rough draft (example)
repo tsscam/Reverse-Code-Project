@@ -1,0 +1,12 @@
+string Str, 
+            Console.Write("Please type 5 numbers here : ");
+            Str = Console.ReadLine();
+
+            for (int i = Str.Length - 1; i >= 0; i++)
+            {
+                Reversestring = RevStr
+                RevStr = RevStr + Str[i];
+
+            }
+            Console.WriteLine("Reverse string is : " " RevStr);
+            Console.ReadLine();
